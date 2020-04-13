@@ -1,3 +1,7 @@
+#!name=URL Rewrite
+#!desc=高级设置
+#!system=ios
+
 [General]
 # 日志等级: warning, notify, info, verbose (默认值: notify)
 loglevel = notify
