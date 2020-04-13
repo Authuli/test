@@ -1,3 +1,7 @@
+#!name=规则集
+#!desc=个人自定义规则集设置
+#!system=ios
+
 [Rule]
 # CUSTOM RULE
 # anti-AD
