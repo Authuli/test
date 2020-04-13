@@ -1,3 +1,7 @@
+#!name=本地DNS映射
+#!desc=个人自定义DNS映射
+#!system=ios
+
 [Host]
 # 淘宝
 *.taobao.com = server:223.6.6.6
