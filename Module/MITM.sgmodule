@@ -1,5 +1,5 @@
 #!name=MITM主机名
-#!desc=个人自定义MITM主机名
+#!desc=自定义MITM主机名
 #!system=ios
 
 [MITM]
