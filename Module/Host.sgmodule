@@ -1,5 +1,5 @@
 #!name=本地DNS映射
-#!desc=个人自定义DNS映射
+#!desc=自定义DNS映射
 #!system=ios
 
 [Host]
