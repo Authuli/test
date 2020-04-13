@@ -1,3 +1,7 @@
+#!name=过滤器
+#!desc=个人自定义过滤器设置
+#!system=ios
+
 [Replica]
 # 隐藏所有发往 *.Apple.com 和 *.icloud.com 的请求（该选项只是在抓取结果中隐藏了请求）
 hide-apple-request = true
