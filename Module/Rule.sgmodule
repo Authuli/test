@@ -31,5 +31,3 @@ RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Rule
 RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Hijacking.list,REJECT
 # Apple 服务
 RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Apple.list,DIRECT
-# China 中国直连
-RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/China.list,DIRECT
