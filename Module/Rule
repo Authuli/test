@@ -1,3 +1,7 @@
+#!name=规则代理
+#!desc=自定义规则代理设置
+#!system=ios
+
 [Rule]
 # CUSTOM RULE
 # anti-AD
@@ -29,8 +33,3 @@ RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Rule
 RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Apple.list,REJECT
 # China 中国直连
 RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/China.list,DIRECT
-# Local Area Network
-RULE-SET,LAN,DIRECT
-# GeoIP China
-GEOIP,CN,DIRECT
-FINAL,Final,dns-failed
