@@ -25,5 +25,3 @@
 *.126.net = server:119.29.29.29
 *.127.net = server:119.29.29.29
 # CUSTOM HOST
-# Cloudflare
-cloudflare-dns.com = server:1.1.1.1
