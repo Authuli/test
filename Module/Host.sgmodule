@@ -12,6 +12,8 @@
 *.aliyun.com = server:223.5.5.5
 # 腾迅
 *.tencent.com = server:119.28.28.28
+# 腾讯QQ
+*.qq.com = server:119.28.28.28
 # 微信
 *.weixin.com = server:119.28.28.28
 *.qpic.cn = server:119.28.28.28
@@ -24,4 +26,7 @@
 *.126.com = server:119.29.29.29
 *.126.net = server:119.29.29.29
 *.127.net = server:119.29.29.29
+# 百度
+*.baidu.com = server:system
+*.bdstatic.com = server:system
 # CUSTOM HOST
