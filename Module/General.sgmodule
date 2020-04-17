@@ -31,7 +31,7 @@ network-framework = false
 # 包含特定 IP 范围 > VIF Included Routes
 # tun-included-routes = 192.168.1.12/32
 # tls引擎（默认值：default）
-tls-provider = default
+# tls-provider = default
 # INTERNET 测试 URL (使用网络诊断功能时访问的 URL)
 internet-test-url = http://www.aliyun.com
 # 代理测速 URL (测试代理策略时的 URL)
