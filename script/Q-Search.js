@@ -5,7 +5,7 @@
 # gh：GitHub 搜索
 # gm：Google 图片搜索
 # yd：有道词典搜索
-# 无指令则转 Google 搜索by Neurogram
+# 无指令则转 Google 搜索
 
 [URL Rewrite]
 ^https:\/\/duckduckgo.com\/\?q=bd\+([^&]+).+ https://www.baidu.com/s?wd=$1 302
