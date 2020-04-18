@@ -7,7 +7,8 @@
 # 日志等级: warning, notify, info, verbose (默认值: notify)
 loglevel = notify
 # 强制使用特定的DNS服务器
-dns-server = https://dns.adguard.com/dns-query, https://dns.nextdns.io/2742d8, https://dns.rubyfish.cn/dns-query, https://v6.rubyfish.cn/dns-query
+doh-server = https://dns.rubyfish.cn/dns-query, https://dns.nextdns.io/2742d8, https://dns.adguard.com/dns-query
+dns-server = 45.90.28.180, 52.80.66.66
 # 跳过某个域名或者IP段
 skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, 17.0.0.0/8, localhost, *.local, *.crashlytics.com
 # 兼容模式：禁用、Proxy with Loopback Address、Proxy Only、TUN Only（0、1、2、3）
