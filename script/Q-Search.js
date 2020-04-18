@@ -1,5 +1,6 @@
 #!name=Q-Search
 #!desc=Safari Search Add-ons by Neurogram
+
 # 注：先进入设置更改 Safari 默认搜索为 DuckDuckGO
 # bd：百度搜索
 # gh：GitHub 搜索
