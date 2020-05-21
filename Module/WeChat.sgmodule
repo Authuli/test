@@ -1,0 +1,8 @@
+#!name=WeChat
+#!desc=Remove WeChat ads.
+
+[Script]
+WeChat = script-path=https://raw.githubusercontent.com/shiyueX/test/surge/script/WeChat.js,type=http-request,pattern=^https://mp\.weixin\.qq\.com/mp/getappmsgad
+
+[MITM]
+hostname = %APPEND% mp.weixin.qq.com
