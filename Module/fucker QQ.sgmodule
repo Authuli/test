@@ -1,0 +1,26 @@
+#!name=fucker QQ
+#!desc=能屏蔽不会报错的都屏蔽了
+
+[Rule]
+DOMAIN-SUFFIX,gtimg.cn,REJECT
+DOMAIN,pub.idqqimg.com,REJECT
+DOMAIN,3gimg.qq.com,REJECT
+DOMAIN,sqimg.qq.com,REJECT
+DOMAIN,y.gtimg.cn,REJECT
+DOMAIN,d.url.cn,REJECT
+DOMAIN-SUFFIX,qzonestyle.gtimg.cn,REJECT
+DOMAIN-SUFFIX,market.m.qq.com,REJECT
+DOMAIN-SUFFIX,wspeed.qq.com,REJECT
+DOMAIN-SUFFIX,qlogo.cn,REJECT
+DOMAIN-SUFFIX,qpic.cn,REJECT
+DOMAIN,gxh.vip.qq.com,REJECT
+DOMAIN-SUFFIX,iv6.gtimg.cn,REJECT
+DOMAIN,v6.htdata.qq.com,REJECT
+DOMAIN-SUFFIX,p.qlogo.cn,REJECT
+DOMAIN,wa.qq.com,REJECT
+DOMAIN,wxconf.video.qq.com,REJECT
+DOMAIN,szmg.qq.com,REJECT
+DOMAIN-SUFFIX,imgcache.qq.com,REJECT
+DOMAIN-SUFFIX,i.gtimg.cn,REJECT
+DOMAIN-SUFFIX,sqdd.myapp.com,REJECT // 更新检测
+DOMAIN-SUFFIX,cdnimg.3g.qq.com,Proxy // 密匙验证
