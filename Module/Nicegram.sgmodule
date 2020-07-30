@@ -1,0 +1,7 @@
+#!name=Nicegram
+#!desc=Nicegram don't know what
+
+[Rule]
+DOMAIN,validator.nicegram.app,REJECT
+DOMAIN,my.nicegram.app,REJECT
+DOMAIN,raw.githubusercontent.com,REJECT
