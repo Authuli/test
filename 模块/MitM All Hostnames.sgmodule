@@ -1,5 +1,0 @@
-#!name=MitM所有主机名
-#!desc=在端口443上的所有主机名上执行MitM，但Apple和其他无法检查的常见站点除外。 您仍然需要配置CA证书并启用MitM的主交换机。
-
-[MITM]
-hostname = -*.apple.com, -*.icloud.com, -*.mzstatic.com, -*.crashlytics.com, -*.facebook.com, -*.instagram.com, *
